@@ -9,10 +9,14 @@ this straightforward yet effective model.
 ## 2. Structure
 This repository is organised as follows.
 
+- `Theoretical_background.pdf:` a pdf that present an overview of the mathematical foundations of the
+Naive Bayes classifiers.
 - `GaussianNaiveBayes.py:` a python file that implement a Gaussian Naive Bayes classifier.
 - `GaussianNaiveBayes_test.ipynb:` a jupyter notebook that
   
   - tests our Gaussian Naive Bayes implementation.
   - compares its performance against the implementation provided by `scikit-learn`.
+  
+
 
 
